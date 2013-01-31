@@ -30,6 +30,7 @@ public class SampleGitSonarTestProject implements EntryPoint {
 			+ "connection and try again.";
 
 	private int a;
+	private int b;
 	/**
 	 * Create a remote service proxy to talk to the server-side Greeting service.
 	 */
